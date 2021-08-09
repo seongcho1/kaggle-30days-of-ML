@@ -73,3 +73,16 @@ In **Lesson 5 (Loops and List Comprehensions)**, you’ll learn an efficient way
 #### 💡 What You’ll Learn
 
 In **Lesson 6 (Strings and Dictionaries)**, you’ll learn about strings, which is a data type that is useful for representing human-readable data, such as text. A dictionary is another new data type, that is similar to a list, but with important differences that makes it incredibly useful in its own right.
+
+
+
+## 📋 Day 07 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEwuxD9MbK1PyRcdh7aUW5BtR7Rv7rXIRqJY4TQy7lP9IQ6AaxUUq7FaQjDgD9TVcxPIn6kgWqK-vAHjQ-36x7gNm-GsFOB4MhljoE87X09fJI8jTqqvkM8_2vT2TnIjMtmkT7j_rpAwZ6dH8ewt6cEFE7XHnjv1COBq1NzS_P1aRuT_sqlHxNemMp8XNFKRDHBIkdi8EaeIiwPvPSWmr5JNW9yEo8kLg2psGR5sZY0eNev5SZcjhqM9EAg) (from Lesson 7 of the Python course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEyYfWHW0gGZgD9YatXghMzGQ3B65iv3FlZl02xLnyfyjbakOg8jpo_dl8OfukR3b9T5dJqS-Yfe0FehBAP7DKqkPb5591Ym64PUGOlzbnYYdgsmge-4ukUjyTyyg03v6wXBbaPPCTPoJBthbLFHzRgb59VNPB-VWrNG_VDTfULwW4ZtR1g9nHJFapifAvfllzuweYQtnwsQV3E5grMT4ZsXzTQ) (from Lesson 7 of the Python course)
+
+
+
+#### 💡 What You’ll Learn
+
+One of the best things about Python is the vast number of high-quality custom libraries that have been written for it. In **Lesson 7 (Working with External Libraries)**, you’ll learn how to access this pre-written code and use it in your own work.
