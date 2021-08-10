@@ -86,3 +86,18 @@ In **Lesson 6 (Strings and Dictionaries)**, you’ll learn about strings, which 
 #### 💡 What You’ll Learn
 
 One of the best things about Python is the vast number of high-quality custom libraries that have been written for it. In **Lesson 7 (Working with External Libraries)**, you’ll learn how to access this pre-written code and use it in your own work.
+
+
+
+## 📋 Day 08 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnExcQSYmLJymvWt9D5k426vhpDl31L1_rJYOTuHw6Q7MqCiTaFGZ_X3-eomywr4pBJ4uF0Z9DewpQgMoo5NwMpMagtUwxiTVQaB1rBt7mykbyFzDaJfbfvenP0xOYT1IO6GPYz59cd6BzyJ6R4YbTy_6LAjhQVTkt_whqMgM8DFc-iUc7e38xo_dG6BrclAgqaEHVpdpKzDH4laeRCfirbaSVPJNXvxbJfWN) (from Lesson 1 of the Intro to ML course)
+2. [Read this tutorial](https://notifications.google.com/g/p/AD-FnExUV055dgpJ0OMl7z3UVofPGNVaasI6uBwKeZQrJJrp4O4oWCCWLUQzhJJEQE4ctdX3OjijtiVAHqVKjLLw9vpt3JPs7fVNGedbjNyY2lNRc4DoErwLaQt6ze_eAKXLjWP5qWVI7HT0On1xv6_mfGZvoHMBPsfgfg-yTehfPYY5-ma_64vGdny4Vk5HiRs-SPGWD6bJJBuy08nb8l_6eUICCHeOeFiMkxPKiUhpdwMIhw) (from Lesson 2 of the Intro to ML course)
+3. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEzZwFu1o0rnQuKoYELkafVGUAWutJnKGe6TJSc_eNSqWgr0ct2i_rxPPJ05OU9e1Ks2HTpHKu5XIukjSh5R3NVm0Cfk8J0sl7wpMUQGDNJmW4GG1bCsTSExYfJ9GWXSc3rbWxGIKHUqVZSS03SlHlPe5TXr_YcHUfVMOkep2wa0wDdC25b3BCL5jE3wd6fc8ViH1Du0P3UPjyfRReFNa6Yrkvo) (from Lesson 2 of the Intro to ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 1 (How Models Work)**, you will start at the very beginning: what exactly is “machine learning”, and how is it used in the real world? You’ll learn the answers to these questions and explore the basics of decision trees, as you start to build a strong foundation for some of the most cutting-edge techniques in data science. 
+
+In **Lesson 2 (Basic Data Exploration)**, you’ll learn all about pandas, the primary tool used by data scientists for exploring and manipulating data. Then, you’ll use your new knowledge to examine a dataset of home prices.
+
