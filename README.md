@@ -101,3 +101,19 @@ In **Lesson 1 (How Models Work)**, you will start at the very beginning: what ex
 
 In **Lesson 2 (Basic Data Exploration)**, you’ll learn all about pandas, the primary tool used by data scientists for exploring and manipulating data. Then, you’ll use your new knowledge to examine a dataset of home prices.
 
+
+
+## 📋 Day 09 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEye_zY9qjV1rmebNtKSZeg3pcjTxehv4sbr9mJJzBg_Snlz42DWH24QEBxV_MkuhI-hAJFf63aDlo2Ix1b6nV0i4540Tj5bd9MkLaZWxdsF8Oc0ny9UL72dkiSpOv8gYN6hfAG7fgocttO3PE4hgeSqQBCzSa63TwcV6KJPzfUoHSELAL_WcMXLZdHcCsDt7EqExDwEdQRUnWEOFzYxqsb87AZGn6jQU4vnN8WYTGQSR5Y5DdBlcsOsfw) (from Lesson 3 of the Intro to ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEzLgGNQ2909CciwFDo2zZTWelNMzwQybXSullIoyxCpj2jWT2fXeMvyy6EDI-iqTsNEtU7ywEMKNG9OHuoIxrvo3aYDrxOKtMkevMohgN8pDcAdHY6EWYQr0HO7edjHkysH4bXcuxWdwJbfvKIgZYzbguOCgCPhR9_rk_YpqMqlF6bK_BLdi_5A9UkNCO4y-x3nWkQo-XoAzptEbBUwgJAT) (from Lesson 3 of the Intro to ML course)
+3. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEy1Eud5ZrWoX5odyfyQP8swEHaDWJiCTVnJcFXbzOCIxkw8W3ttu65oSGU_ijXtvplhNi1XbHVaEtk0zzAz3QlaWBeOe809g3DNoilmlmM67Hl23NNVQC8TVsto_y8fHgKT1hrB3bp1mSsVNOh2kO_UAA3JiXymErRfP0frRGXDytZC-Y1JM35DYvGhcDURCAb3BcpZJprNNKfvEIKEryU32wRUkNmVDGU) (from Lesson 4 of the Intro to ML course)
+4. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEwyDradTk2TcMFk4UlzwEgD_TMJgIGiYW0t8YZFqLUKLBaIxBPbaRoCRAqXOwyX_XvIkvh5Zvvw61CYIVc1Ks4Afj7ESb1VxKC1KgXpAbRgpY0-UmOaTlq-yQi66KpvNwV1XjxQY2hI_kRRCaiunKvzyXePCvuoM-20dvh5SZEd6ab_ODcURk5zWvClo6VkXB7ilr_pM7POYnpA5H05XmcY) (from Lesson 4 of the Intro to ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 3 (Your First Machine Learning Model)**, you’ll create a machine learning model using the scikit-learn library, one of the most popular and efficient tools for data analysis. 
+
+Along the way, you’ll learn some basic techniques for working with very large datasets. These skills are especially important for modern data scientists, who often work with “big data” containing millions of variables ― many more than a human can conceivably understand! Thankfully, machines excel at discovering useful patterns in datasets that are too large for humans to wrap their heads around. :) 
+
+Once you have built a model, how good is it? How exactly should you judge how close the model’s predictions are to what actually happened? In **Lesson 4 (Model Validation)**, you’ll use model validation to measure the quality of your model.
