@@ -120,3 +120,15 @@ Once you have built a model, how good is it? How exactly should you judge how cl
 
 
 
+## 📋 Day 10 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEwApbMzowCXtvl4rVWfDZKqUnqQaV3kH9NXRtZRW36fbCHPQKP9cLoVrDWP1AgpLLmB-sQBx3NVxpSOO6Y65Vm_X8IhLp6gA1-GTonRNiKEbQ5-881MuoF8vI5nPbOcSK3h77ho9YibAdns4spv4GuLzYZ9-ivPvVXqHGZw5hdhslt-Ew4b55YlCwiuy9Os8rf9F07WfTX2PlZNI8AQEZhDjnUEfuDokdbm4h5dQWvxcgRXud5w) (from Lesson 5 of the Intro to ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEy4xhZluVfghvwY-kEV0NQkCmphbdMiR5YSruKkmaWfGn-mOETcSMV4bdtUIh9Iqe5AG7r9aLO3QpNXixRYsJdZssV7-JrsKOG4kKruiEWW8eRrDhPb0hlJq3uYAAHw1HOrkqpOmKT5WcLrI8I9Vp7arYJXbD5x7R3hkn0s3GXyoprMg8T4RUzVRL4GkjSxYkDgeAvCNSUXU3-dBcUhnIV3YQ) (from Lesson 5 of the Intro to ML course)
+3. [Read this tutorial](https://notifications.google.com/g/p/AD-FnExCdEPzfBwpMHFEwZxIeIE7Mphz64qYrsTrOJW654COPW-UO6rGnbwT5n_JogbzD2hotOUFCz-F8t6h_tjg9qvfvYRKEgOlNO_bZT6RNViXAd2ohqmVatj7d_NNaPe2P4NA7sGiLJn6jkoUMgTkl2tFdFtWPzZZ7UFISy-SBUDiKhq-of7wfFiXQhdqeExXR1nJ3B0pBbFVMAOQnbsdNgLwzLOsDBG9hA) (from Lesson 6 of the Intro to ML course)
+4. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEzlO3_DllyHdIxqKGGuFFec9E84-GRb2M0YAfuQbJ7cdl4aZxyxoclduG836583M36_zrd2ZvhReiEZqlbe4lV_keJ9RtHMk_yTuepdaiMVSKIQ9SDVuDDtZdM6N4SvK_rpWaVw8YHKwFp42YOcHL1y2-u8duIJaY9VZU0lVI-bALYeD-cOeYfnXUzsBb-ifXcU0Ld5BWkxcBrxtKLe0C2Qrw) (from Lesson 6 of the Intro to ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 5 (Underfitting and Overfitting)**, you’ll learn about the fundamental concepts of underfitting and overfitting. Then you'll apply these ideas to gain a deep understanding of why some models succeed and others fail. This knowledge will make you much more efficient at discovering highly accurate machine learning models. 
+
+In **Lesson 6 (Random Forests)**, you’ll learn all about random forests, another machine learning model you can add to your growing toolkit. Then, put your new knowledge to use immediately by building your own random forest model that exceeds the performance of the models that you’ve built so far!
