@@ -132,3 +132,14 @@ Once you have built a model, how good is it? How exactly should you judge how cl
 In **Lesson 5 (Underfitting and Overfitting)**, you’ll learn about the fundamental concepts of underfitting and overfitting. Then you'll apply these ideas to gain a deep understanding of why some models succeed and others fail. This knowledge will make you much more efficient at discovering highly accurate machine learning models. 
 
 In **Lesson 6 (Random Forests)**, you’ll learn all about random forests, another machine learning model you can add to your growing toolkit. Then, put your new knowledge to use immediately by building your own random forest model that exceeds the performance of the models that you’ve built so far!
+
+
+
+## 📋 Day 11 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEwZca5KOrUy9id-52gXVcGVSfkAVM6wgfZAGCgDLRyqe-Hu8mezVY5x7yzWhWArNal2QkKHRRodifjJf3Q_T7jNBEnE31Se1MjGSTA2VvnM6aAcXmXkjW9dRjSJckVhlJSqWRlSf864WPWap-QZ7gmlPISOapExgpUAFu-OHXW1h_WFCHPe8sJyiYlvA-sOeZiHvYdQJgr1ACIJT6aLrTY2kGz-knFzhuxvBNFU3oMCj1wBgtmftl12) (from Lesson 7 of the Intro to ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEz_QxcjtPzGEvNNwxbaT96K-dKDEwiEub0a7ktrMkQfiWKkRqvJqN-zcly9R0jjk1D_3l8qNuILL0JIK-GTr068xNE5h9M5FQscDB6dZFjGdGPUMn627QxZiAPTALGf18u7lvqfEOJ5hqXmB64OQl08CNtrVuRdQBTjrzqMO7T8CwAo-WEhVc8AsB0YisHPZ_YYvAIU8pg3NZKcylXGPH1xRLg) (from Lesson 7 of the Intro to ML course)
+
+#### 💡 What You’ll Learn
+
+One way to further improve your skills is to participate in machine learning competitions. In **Lesson 7 (Machine Learning Competitions)**, you’ll create and submit your predictions to a Kaggle competition.
