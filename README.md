@@ -143,3 +143,22 @@ In **Lesson 6 (Random Forests)**, you’ll learn all about random forests, anoth
 #### 💡 What You’ll Learn
 
 One way to further improve your skills is to participate in machine learning competitions. In **Lesson 7 (Machine Learning Competitions)**, you’ll create and submit your predictions to a Kaggle competition.
+
+
+
+## 📋 Day 12 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEzGmQ0uWaO-5OE7mSM__A-P4SeSC3amYlIYHsiNY7KhcbUeS57HZZlyuJiEUNhfJ_sqP2R1gpePWVCWEI78FVrLKc5heW667EOStFsVnTyF0YM_E6uPnCdfICZL5H9Cj8i12r7aEZAZRFSQC3IICe5X9IsWJzXqP2eSBufMvqa9n04hUwW762EiNdFtiKpcJngnCSeYYwWbf-mcR4YMZA8DUz_d5j16tg) (from Lesson 1 of the Intermediate ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEx5dmywsYARfzjDGJUQYbPu7DuWf2M_m3A_zEyP7dy_1pUYh8doXChynxqEkWv98GOIWLPvqHouDOAji-krxn_dy28dFAf0Bn_ImacBlqVqyN_da0HKgtscH9MB5tI7zxH54--8dHvuTrDMFFQmBBuc-ooHUz-Kge-O-V-BTi3Pl4S3S_Z_gNnzQIuFXThailqjwt2xosRK5stRG3CfKZ_vvYI) (from Lesson 1 of the Intermediate ML course)
+3. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEyLniCWnvZRrEloNnr8-rqfvrJeQYkdLmeaxTNZTEhwwb_6Nlu84opQA38dJ-b8ML4E2tQ3eWQTLhL0grYbKVHj-dMi1iQbb_i9fc37htWzwovp4gYoF7S_-fwaJ3-zZqi_dVeGBMaoanfCRJ7bwBgL6xTSiGDc-2pjvLOrDEL1QbWpb5v8Y2e7tnJ9v5tYYMQCbVjd1F8_Viw-YGBHCzUm1xA2lftPCi2D) (from Lesson 2 of the Intermediate ML course)
+4. [Complete this exercise](https://notifications.google.com/g/p/AD-FnExs1sUJKWe8xKD6-qq26jooULzdEX_cTcefqP6LogZNSm2RqaXUtxWq9kXSVCFp1_2yNrgFtN9xWvLmEOy7gNwCkjWBoucNpngjKzUpb_kAHmxEESqCbDe2Qt1jVD7jH75_5xDbbXoRv5dpHMcshKlnOfLhVjDyLXfy8J9bpsMZHK1A1rDruI9KePImuRBlwY5bOCpKPALnEq0W5rlCRra-AL0) (from Lesson 2 of the Intermediate ML course)
+5. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEzoib32bboGJrgZMzDzcJeGThXGBuyzEw5XC0ntaKAyTgtG2NrTJWSg1CTtBObTOZtG22i5_nISKZouSRfAVg25nd1jTS1eIgqzM8DBe3d9o9KED_D6EuKkqpPweIoRJmE1Amc399SXr0rzcMx5UtbZfwqfyuuhoKjQTAQQSnoOmdeOWM_vbrD2YrtV0dNwx9asDjBPVkQqXPI5AqHSiwaqUzCjQLvqeYGvpgnOhLyMmA) (from Lesson 3 of the Intermediate ML course)
+6. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEzcwkf9_J3Xm1AG3Jq_-VjnLkSdCzVyz_0VMzm9uIBqqC3Szn_ppEiHPE6drtUqybBiXHydPnUSbK1kdaSVps52EK7ESfmWJ97HoLaEh95Pg_t30pJsg1pGbTVjNzq5ulo3uVoY0AK3RpSOHxvE-r-vo6N77Wjnk_-g9VtMmPrORJ9_LVHf59mrhwcMrpVD0JzyfQuj45MJqUkzamqZT8zsERw) (from Lesson 3 of the Intermediate ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 1 (Introduction)**, you’ll learn more about what the course covers. 
+
+Most machine learning libraries (including scikit-learn) give an error if you try to build a model using data with missing values. In **Lesson 2 (Missing Values)**, you’ll learn about three different approaches for dealing with missing values in your data. 
+
+A categorical variable is a variable that takes only a limited number of values, and it’s common to encounter them in data. Learn how to work with them in **Lesson 3 (Categorical Variables)**.
