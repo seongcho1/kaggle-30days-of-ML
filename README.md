@@ -177,3 +177,18 @@ A categorical variable is a variable that takes only a limited number of values,
 In **Lesson 4 (Pipelines)**, you’ll learn a simple way to keep your data preprocessing and modeling code organized. 
 
 You’re already a bit familiar with model validation from the Intro to Machine Learning course. In **Lesson 5 (Cross-Validation)**, you’ll explore a more advanced validation technique that gives a better measure of model performance.
+
+
+
+## 📋 Day 14 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEwdUZqob8L7qpXHIj8SXJZgPZTCALY79gQ9Oq1HHQnKz9CsLrHCq5Dam4VbmuxqRRIbXVdDPRPZbDbPYBoUxuXJLkmA-E-SWVNPXWghmu5Tq8wVSQTv4RGjow5BzpnSxUUo3Mv34MBc-9akcQe-XB49wnHg5nsFm9f3a56UlOS9yBuyVxseUwGvNt8gqx-3fDdqy5iQryX4FXxhnaV9y1Jo) (from Lesson 6 of the Intermediate ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEwabb_uZinbvPy5w5udgGcDrQz--swsZsKQjLPdmJKrYa5Cn3Bacm3mxZbOaanqImWQOb5c4S2ZM_a2w9iqIHdRumxmmpv4gVB75Xozr7kikik9HkOEki1fSA-HRlN5qp3B2FWYdoQM_5WjOXUT9XiAB0wXQbxFYqhHwcqGV053sIlNCCagy7JMWa6INXF2v6fs9u0bXr9iHEKCZqHaAPWqmw) (from Lesson 6 of the Intermediate ML course)
+3. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEz2p_O3xCi8oOz2ZfugDM6vAMSjDyLKkXW9ja2QCY6huzRCaoQkN6w4YD7qrRjMa1s5T5XPF2vINJPDq9u7vMrD4DJ_gmuXCXW-rqhdYOoQHGTLY3oyI1GsC993QKBjtbjboA0LvHZfEspSY4JIB4H274UxZtI5RvPL4CMN3HISbE76Uzw1zghisQPHfN9iu9etKuOBoiYXfD6926HiOPN2LMxRJ-je) (from Lesson 7 of the Intermediate ML course)
+4. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEwIoA_yfmGqQGuzynaWDBh22f6q_AEX7w5weJOyLUg78NEgXNIbwqG2Eboz_fLYmxrrg_7CGaUAf4sQPF5oSOIQ1EPe3FMFkUEbHxrjbYqeTt9qU5ewAoXa27PAh5oOZHgKlSE3QSJV4sUKNHNBXzow_D8xPd0SH1wxBdXCZjJEX_HUyE7k0REJrATKAkWWCbm6SA6c7VWItQU8U_kUJwxDXw) (from Lesson 7 of the Intermediate ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 6 (XGBoost)**, you will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
+
+In **Lesson 7 (Data Leakage)**, you will learn what data leakage is and how to prevent it. If you don't know how to prevent it, leakage will come up frequently, and it will ruin your models in subtle and dangerous ways. So, this is one of the most important concepts for practicing data scientists.
