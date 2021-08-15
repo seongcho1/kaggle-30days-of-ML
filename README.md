@@ -162,3 +162,18 @@ In **Lesson 1 (Introduction)**, you’ll learn more about what the course covers
 Most machine learning libraries (including scikit-learn) give an error if you try to build a model using data with missing values. In **Lesson 2 (Missing Values)**, you’ll learn about three different approaches for dealing with missing values in your data. 
 
 A categorical variable is a variable that takes only a limited number of values, and it’s common to encounter them in data. Learn how to work with them in **Lesson 3 (Categorical Variables)**.
+
+
+
+## 📋 Day 13 Assignment
+
+1. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEwCc3Sq6oVzBHFgU0_O7SuQClRmICmBIhFRXcEE_Je3437p0Z35kctyNwV_GrBjTKGsTY-jOkJi_BASdss4mxmihU21gl1YJ7l-ZifekdU7BNN4of3WkXNsNe3Pa63IHwE2T9NMK5QEnUMTg-bC5XwclWAZeU2wscEzNwx9VKYVSXUl-00tV1Dnkfq12K10_84iYB9tHfzlUdUtUjmD9ZQ9LnO75Q) (from Lesson 4 of the Intermediate ML course)
+2. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEwPkTNZoc0LYRFjeh3R-4w14aFHaF4-_fDkBf1mblEsIkTctJspxvK990MdtZ7oIlLPJJcrVSfaDNOFIV_5OZ2rnLz0XqvYbzFWI4sCwRF1qAZoUHLj1Lhr5QVy-xzwTfeExJyN9Bb7PxMTVS_VQnESqO-1fM9ilr_9uYYusJ3cEyzgTeo4ksUn2txpmUT8FdeNDVIoh9YxP_jA3KIz6W6l6cs) (from Lesson 4 of the Intermediate ML course)
+3. [Read this tutorial](https://notifications.google.com/g/p/AD-FnEx0Gvf_BzdNvP-IxjaQqTbjwl5MaQL4BQ12__Li9RNMG1hwdGGVwDcfu75WJ7JbQ_hAt-EKgnZVV1rlcnj-EF5XseyORp5cvI5nwL_CfzncAq_w95OujCL0tPtIgtWjdgi6KmHVhCpsOookl-yETva4Kl2_M5SIjrAxYBStxqcXSYmrf6xp1OI7NPUH_0FJf4a8LpBuq0KtQovX5ZMl1zX4DPC2FcDYuaTtvGM) (from Lesson 5 of the Intermediate ML course)
+4. [Complete this exercise](https://notifications.google.com/g/p/AD-FnEzDylRzTO0aqjaHkUUL1vhbgK6REpo9aWLR0qIPeFQ0o1VdPvYpo8xXyjnLmZivkEVbKgyuD06krisD4m1zK4u0s989FlpuSABBCcEMu5B8Abp-XKsQaQe9mKDONViF8ZWHl3_RYCtXUPLxRWTH_vAZIaX5XsHrRbF8p0Xl2DMyya3rpqO-YVbVVFOvPqqlBLvbAwyppv1HFKQUV3fwgb7xGeU) (from Lesson 5 of the Intermediate ML course)
+
+#### 💡 What You’ll Learn
+
+In **Lesson 4 (Pipelines)**, you’ll learn a simple way to keep your data preprocessing and modeling code organized. 
+
+You’re already a bit familiar with model validation from the Intro to Machine Learning course. In **Lesson 5 (Cross-Validation)**, you’ll explore a more advanced validation technique that gives a better measure of model performance.
