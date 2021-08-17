@@ -192,3 +192,18 @@ You’re already a bit familiar with model validation from the Intro to Machine 
 In **Lesson 6 (XGBoost)**, you will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
 
 In **Lesson 7 (Data Leakage)**, you will learn what data leakage is and how to prevent it. If you don't know how to prevent it, leakage will come up frequently, and it will ruin your models in subtle and dangerous ways. So, this is one of the most important concepts for practicing data scientists.
+
+
+
+## 📋 Day 15 Assignment
+
+- [Get started with the competition.](https://notifications.google.com/g/p/AD-FnEz5Ypv9vRkpVy2ZaO4-SBGgMhC-FsFMpa2PxoKTqxer8mg5TfSccQhj1kArsVbHIZN_sIp3A_naZzcJjr1PH6gzsG9zj3yJJswxzf0ubFHTriErVO5W9VZBtfkoVCo4gDVtfLUw4FVUEnZnc5fPuaHu1Gz34dGRJ0q42Rc406_BND9g71JRKd6xgolc-w6YpxZiWfBJXzCFTr31yrTlV1cT8hdOGIajq278JlgxuSv42Qgw)
+
+This is your personal invitation link to join the competition. Please do not share it with anyone else, and do not post it in the Discord community.
+
+#### 💡 What You’ll Learn
+
+In the link above, you’ll find a [detailed introduction](https://notifications.google.com/g/p/AD-FnEzYKACN7Chzk0XVz95_zda-DgSsU09734xjOsEeHTYmubTCo66ZehK1KM9-grIx6zm6F9tyCxRSErIZhWQ07hQppwAfiFrd4VCrcyDI505FQBQEisVb9yLmf6K_nV1ZxuHWtLRJjrAVWP3wMFurktE5mY8VMprmHnDZCagW29vSkGHD1yV5OrvFh5U_NIvD3ktUl4PH46MsChSvXd-2Z-luVnaLF_w7AOf5ER_GUyM0kkUml1_5NW_9_8gHyQyjAV7mrgCMfoexTM4jBFScF8V8eZYJEKI) to Kaggle competitions (that covers how to work in a team and much more), along with a [getting started tutorial](https://notifications.google.com/g/p/AD-FnEySawuKOpMuODAMm0uwY_Nig0HJUHiXCwPZztbOrqtc0bkT4cmBOaIPskaSJLUf-sa15v9FB4M-fN9ymYRHXB86cE6L_Zp1DYPoAOkxTzIp9MkqU3UQQF-hSLAxEU1EX3JSShGUAdKU24rndq00eSlcNy6mOxIkLFT0qm813IVus3HaCjf0T4xXi83EVURLotX_MqkwrYVF_VjIMTwPGdy2zSd-Zdk3KW8-VZHMJRmCm0cXLi9-fg3LytUEVV7uVKumBJOebYJMsj2j) that walks you through how to make your very first submission.
+
+
+
