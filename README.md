@@ -195,7 +195,7 @@ In **Lesson 7 (Data Leakage)**, you will learn what data leakage is and how to p
 
 
 
-## 📋 Day 15 Assignment
+## 📋 Week 3 Assignment
 
 - [Get started with the competition.](https://notifications.google.com/g/p/AD-FnEz5Ypv9vRkpVy2ZaO4-SBGgMhC-FsFMpa2PxoKTqxer8mg5TfSccQhj1kArsVbHIZN_sIp3A_naZzcJjr1PH6gzsG9zj3yJJswxzf0ubFHTriErVO5W9VZBtfkoVCo4gDVtfLUw4FVUEnZnc5fPuaHu1Gz34dGRJ0q42Rc406_BND9g71JRKd6xgolc-w6YpxZiWfBJXzCFTr31yrTlV1cT8hdOGIajq278JlgxuSv42Qgw)
 
@@ -207,9 +207,24 @@ In the link above, you’ll find a [detailed introduction](https://notifications
 
 
 
+## 📋 Final week's Assignment
 
+- Continue submitting to [the competition.](https://notifications.google.com/g/p/AD-FnExrvcKMuJh8oTKLTWO_rTMImZR-po5eXj4qf6fM7jvWj9Hr-aFBh2oKGmeX2asfHLgO09cftXJGSRy38_TStedg_-9gIWiTrZW3dkgiVruLjFjWN6yktcscfi7hf1zVMkGmOTZSpsGKEP_LCOBzfLsSxxfT1zdaTlwMTJbYo8RA-rfuKQ1qnAeteVTHeZhhcum1GBJYfh7lKjF6ABlZlXVPKn17yQ93hc5Fc9OZ1toCAto)
+- Watch the [extracurricular workshops](https://notifications.google.com/g/p/AD-FnEyPFSmGPnoS4m-FESjvmncVJzKAUPWLvS2evEF-8SttwnFgDGicV6ZCKmy0peQvtXECsuqng9yRWu39wucKoAtVmnYcB-h2q_OXhPeY5TQWRveBPkfyNAWwEF7jLGHhfdz2Evf4SW_KVJDrlQ) from Google’s Developer Expert Machine Learning Program.
 
+#### ✏️ Important Notes
 
+*Competition* 
+
+It’s not too late to get started, if you have not already. [This guide](https://notifications.google.com/g/p/AD-FnEyAYoxihCf8e_-5mlfpE9iJjWF-Xeu757xgH_LkZb9isEu1dbRPsLs4ZP6_EfZZ-bBwxgJtwqjqcP2Bud-yQ7Pv7Z8g463TlG5UiZB7qFHsd78EY1MM6OD5uPMPa12CTavkdzQTTVl9Bb17zmafXPBbwvyzWS5vHa8EvJucBn8LJZGumwZpXCF0nsOgiTpQw72ldDAaS98wXSrxnJt6ggsSwDvYAckrHWE1YbPOR78p3b6XC8gMOQSeSQhBdyXRaUob-0s) has all of the orientation you need. 
+
+You can make really strong progress by doing just a little bit each day: aim to submit to the competition at least once each day. Remember you can chat with other participants in the [Discussion tab](https://notifications.google.com/g/p/AD-FnEzglNjwaYdd4y46rvoPd1I2xecMQ_G0OB97mIjggqj-2vG78L8qXL4ZJDBXI6tzMvAClkdr5NWIXAWmnxJKjGbzsRGkQor4NJepERSdU4zIK5BHl8d6K_0XiJPY0p_V77ZdAp_bgYuI8JavEvRRsSU4WvhxkknoXUVk3-3KoGDaC-NRz8X_EHF_maxuRXT_axlqw13tOD1IZvkNvZcn09HQaAbkJuU3zlT2), and you can view code examples from the Kaggle community in the [Code tab](https://notifications.google.com/g/p/AD-FnEzky7O0bn-3XXTdZ1Zp_VVE5e787udccWaAvhTYX2P9IZV98ZROvgdLqTB43gTL1v3GZx9qv6ncTw9J0Ff4CSvg41E6h5giXJTGnQcw6LF6lLhdxKC2MldtuS3gdJ4F2Yc35mQBvsLSUpQGTIQRlQBqKvsVHhjxNFxndAx2ZTTTs0nWjbCFr5Hc33aH5ZyqF-IKN5dxrbNozvMHZkyuL_ECl7c). 
+
+*Google Developer Expert Workshops* 
+
+The workshops are optional for the 30 Days of ML program. There are 3 available: Intro to Supervised Classification, How to Build a Data Science Portfolio and Scikit-optimize for LightGBM.
+
+If you have any questions, there is a Question and Answer channel for each workshop in the [30 Days of ML Discord server](https://notifications.google.com/g/p/AD-FnExXk_GHwHoug7n7MNYEf0OnpP8yrYmlUiZkB8GjEITP-l5bfgaxsNH0QhuzqZsQc_0TNzsC2SJmE2NbVsOoQge_szoC2_ZwUFVTcFvblm2Iz_w8mYpAbliNTnV_uyPjcqGGr1p2QXPyc94JuylNviIwUdTls226e2kNEjpgWoMp_3HKu5DObnoBYbb348z6OHHTnH4H). Note: the speakers may not be able to get to every question. If you are able to answer a question, feel free to jump in to help others.
 
 
 
